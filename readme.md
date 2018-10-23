@@ -73,3 +73,4 @@ password : 服务器密码
 Transfer Set Source Files  这是要传输给服务器的文件
 Exec command  这里就是上传服务器之后要执行的shell命令了
 
+参考文章  https://juejin.im/post/5ad1980e6fb9a028c42ea1be
